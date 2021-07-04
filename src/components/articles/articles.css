@@ -1,0 +1,42 @@
+.article-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.article-card {
+  border: none;
+  border-radius: 10px;
+}
+
+.article-title {
+  padding: 0.2em 1em;
+  text-align: center;
+  align-content: center;
+  border-radius: 50px;
+  background-color: white;
+  color: #036dfc;
+  width: fit-content;
+}
+
+.category {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+  color: #036dfc;
+  background-color: #ffffff !important;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.article-card:hover {
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition: all 0.55s ease-in-out;
+}

@@ -1,0 +1,8 @@
+.article {
+  background: url("../../assets/images/pattern.png"), #036dfc;
+  padding: 8em;
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0px !important;
+}

@@ -1,0 +1,66 @@
+@media only screen and (max-width: 800px) {
+  .card {
+    width: 23.8rem !important;
+  }
+}
+.project-title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 42px;
+  color: #333333;
+}
+
+.ml-intro {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #036dfc;
+  border-left: 5px solid #036dfc;
+  padding: 0.8em;
+}
+
+.card-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #828282;
+}
+
+.card {
+  border: 1px solid #f1c97b;
+  border-radius: 10px;
+  width: 21.5rem;
+}
+
+.list-group-item {
+  border: 1px solid #f1c97b;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 24px;
+  color: #333333;
+}
+
+.card-link {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #036dfc;
+}
+
+.item-list {
+  color: #828282;
+}
+
+.add-link {
+  align-self: flex-end;
+}

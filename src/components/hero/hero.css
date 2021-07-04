@@ -1,0 +1,74 @@
+@media only screen and (max-width: 800px) {
+  .hero-image {
+    width: 375px !important;
+    padding-top: 1em;
+    margin: auto 0.2em;
+  }
+
+  .hero-email {
+    display: none !important;
+  }
+}
+.intro {
+  color: #333333;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+}
+
+.name {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 28px;
+  color: #036dfc;
+}
+
+.summary {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #828282;
+  margin-top: 3em;
+}
+
+.hero-email {
+  display: flex;
+  align-items: center;
+  margin-top: 3em;
+}
+
+.hero-input {
+  width: 292px;
+  margin-left: 1em;
+  background-color: #d4e7ff;
+  border-radius: 0;
+  border: none;
+  outline-color: transparent;
+  color: #8cbdff !important;
+}
+
+.hero-input:focus {
+  color: #8cbdff !important;
+}
+
+.hero-button {
+  margin-left: 1em;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.frame {
+  /* align-self: flex-end; */
+  text-align: right;
+}
+
+.hero-image {
+  width: 400px;
+}

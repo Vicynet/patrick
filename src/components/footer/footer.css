@@ -1,0 +1,68 @@
+@media only screen and (max-width: 800px) {
+  .footer {
+    padding: 2em !important;
+  }
+  .footer-right {
+    float: none !important;
+    width: auto !important;
+  }
+}
+.footer {
+  background-color: #fafbfd;
+  padding: 3em 6.5em;
+}
+
+.footer-title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  color: #4f4f4f;
+}
+
+.footer-sub {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 24px;
+  color: #828282;
+}
+
+.footer-right {
+  float: right;
+  width: 50%;
+}
+
+.profiles {
+  display: flex;
+  align-items: center;
+  align-content: center;
+}
+
+.linked-profiles {
+  margin-right: 1em;
+}
+
+.mail {
+  display: flex;
+  align-items: center;
+  margin-top: 2em;
+}
+
+.email {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: #036dfc;
+  margin-top: 2em;
+}
+
+.form-button {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}

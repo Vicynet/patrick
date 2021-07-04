@@ -1,0 +1,44 @@
+.pop-body {
+  background-color: #fafbfd;
+  padding: 1em 4em;
+}
+
+.pop-header {
+  border: none;
+  padding: 1em 4em;
+}
+
+.pop-title {
+  border: #036dfc 1px solid;
+  font-size: 0.8rem;
+  padding: 1em;
+  border-radius: 10px;
+  color: #036dfc;
+}
+
+.content-title {
+  color: #4f4f4f;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 28px;
+}
+
+.content-body {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.8rem;
+  line-height: 24px;
+  color: #828282;
+}
+
+.content-link {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  color: #036dfc;
+}
